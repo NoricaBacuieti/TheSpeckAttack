@@ -20,3 +20,22 @@ Here you will find the jupyter-notebooks for conducting the experiments describe
 14. TheSpeckAttack_Activations.ipynb for creating Figures: 11, 12, 13, 14.
 15. TheSpeckAttack_FeatureVisualization.ipynb for creating Figures: 15, 16, 17, 18.
 16. For obtaining the results for Tables: 6, 7, you can directly refer to the code available here: https://github.com/agohr/deep_speck
+
+## Acknowledgement
+
+The above implementations make use and adapt of the code available at:
+
+1. https://github.com/agohr/deep_speck
+2. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/resnet.py#L439-L458
+3. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/resnet_v2.py#L28-L56
+4. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/resnet.py#L461-L479
+5. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/resnet_v2.py#L59-L87
+6. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/densenet.py#L323-L333
+7. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/densenet.py#L336-L346 
+8. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/xception.py#L46-L313
+
+And the following libraries:
+
+1. https://pypi.org/project/keract/
+2. https://pypi.org/project/lime/
+3. https://pypi.org/project/kerassurgeon/
