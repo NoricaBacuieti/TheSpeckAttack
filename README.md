@@ -23,7 +23,7 @@ Here you will find the jupyter-notebooks for conducting the experiments describe
 
 ## Acknowledgement
 
-The above implementations make use and adapt of the code available at:
+The above implementations make use of and adapt the code available at:
 
 1. https://github.com/agohr/deep_speck
 2. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/resnet.py#L439-L458
@@ -34,7 +34,7 @@ The above implementations make use and adapt of the code available at:
 7. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/densenet.py#L336-L346 
 8. https://github.com/tensorflow/tensorflow/blob/v2.5.0/tensorflow/python/keras/applications/xception.py#L46-L313
 
-And the following libraries:
+And use the following libraries:
 
 1. https://pypi.org/project/keract/
 2. https://pypi.org/project/lime/
