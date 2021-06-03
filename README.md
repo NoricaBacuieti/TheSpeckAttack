@@ -39,3 +39,4 @@ And use the following libraries:
 1. https://pypi.org/project/keract/
 2. https://pypi.org/project/lime/
 3. https://pypi.org/project/kerassurgeon/
+4. https://pypi.org/project/lottery-ticket-pruner/
