@@ -22,6 +22,23 @@ Deep Neural Networks aiding Cryptanalysis: A Case Study of the Speck Distinguish
 15. TheSpeckAttack_FeatureVisualization.ipynb for creating Figures: 15, 16, 17, 18.
 16. For obtaining the results for Tables: 6, 7, you can directly refer to the code available here: https://github.com/agohr/deep_speck
 
+## Setup
+
+The experiments were run on an RTX 3090. 
+Besides the experiments described in Section 4 regarding the evaluation of the Lottery Ticket Hypothesis that require around 24 hours, and the experiments described in Section 6 that require around 48 hours per classification case to finish, all other experiments require from a few minutes to 2-3 hours.   
+
+## Requirements
+
+1. Tensorflow 2.4.0 (For TheSpeckAttack_Prune_with_Surgeon_based_on_APoZ.ipynb Tensorflow 2.2.0 is needed.)
+2. Keras 2.4.0
+3. Keract 4.4.0
+4. LIME 0.2.0.1
+5. Kerassurgeon 0.2.0
+6. Lottery-ticket-pruner 0.8.1 
+
+In addition, 24GB of RAM are needed to run the experiments described in Sections 5.2 and 6. 
+
+
 ## Acknowledgement
 
 The above implementations make use of and adapt the code available at:
