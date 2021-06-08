@@ -5,7 +5,7 @@ Deep Neural Networks aiding Cryptanalysis: A Case Study of the Speck Distinguish
 
 ## Content
 
-1. TheSpeckAttackReproduction_OneShot_and_Iterative_Pruning.ipynb for creating Figures: 1, 2, 3, 4, 5, 6, 7, 8.
+1. TheSpeckAttack_OneShot_and_Iterative_Pruning.ipynb for creating Figures: 1, 2, 3, 4, 5, 6, 7, 8.
 2. TheSpeckAttack_Depth_1_No_shortcut_distinguisher.ipynb for obtaining the results for Table 8.
 3. TheSpeckAttack_Depth_1_No_shortcut_distinguisher.ipynb (adapting the number of filters/neurons as described in the thesis) for obtaining the results for Tables: 13, 14 
 4. TheSpeckAttack_Prune_with_Surgeon_based_on_APoZ.ipynb for obtaining ther results for Tables: 9, 10, 11, 12.
