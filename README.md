@@ -24,6 +24,11 @@ Deep Neural Networks aiding Cryptanalysis: A Case Study of the Speck Distinguish
 
 The reduced network can be seen here: TheSpeckAttack_The_reduced_network.ipynb
 
+There are also the demo's used for defending the thesis: 
+1. Demo_TheSpeckAttack_OneShot_and_Iterative_Pruning.ipynb
+2. Demo_TheSpeckAttack_The_reduced_network.ipynb
+3. Demo_TheSpeckAttack_Train_Autoencoders_and_Distinguishers_with_Preprocessing.ipynb
+
 ## Setup
 
 The experiments were run on an RTX 3090. 
