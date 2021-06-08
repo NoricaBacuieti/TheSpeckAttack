@@ -22,6 +22,8 @@ Deep Neural Networks aiding Cryptanalysis: A Case Study of the Speck Distinguish
 15. TheSpeckAttack_FeatureVisualization.ipynb for creating Figures: 15, 16, 17, 18.
 16. For obtaining the results for Tables: 6, 7, you can directly refer to the code available here: https://github.com/agohr/deep_speck
 
+The reduced network can be seen here: TheSpeckAttack_The_reduced_network.ipynb
+
 ## Setup
 
 The experiments were run on an RTX 3090. 
