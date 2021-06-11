@@ -32,7 +32,7 @@ There are also the demo's used for defending the thesis:
 ## Setup
 
 The experiments were run on an RTX 3090. 
-Besides the experiments described in Section 4 regarding the evaluation of the Lottery Ticket Hypothesis that require around 24 hours, and the experiments described in Section 6 that require around 48 hours per classification case to finish, all other experiments require from a few minutes to 2-3 hours.   
+Besides the experiments described in Section 4 regarding the evaluation of the Lottery Ticket Hypothesis that require around 24 hours (for the depth-10 network), and the experiments described in Section 6 that require around 48 hours per classification case to finish, all other experiments require from a few minutes to 2-3 hours.   
 
 ## Requirements
 
