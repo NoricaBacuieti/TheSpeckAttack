@@ -17,11 +17,6 @@ Deep Neural Networks aiding Cryptanalysis: A Case Study of the Speck Distinguish
 
 The pruned network can be seen here: TheSpeckAttack_The_reduced_network.ipynb
 
-There are also some notebooks where the results can be seen as they were computed: 
-1. Demo_TheSpeckAttack_OneShot_and_Iterative_Pruning.ipynb
-2. Demo_TheSpeckAttack_The_reduced_network.ipynb
-3. Demo_TheSpeckAttack_Train_Autoencoders_and_Distinguishers_with_Preprocessing.ipynb
-
 ## Setup
 
 The experiments were run on an RTX 3090. 
