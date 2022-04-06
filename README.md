@@ -13,6 +13,7 @@ Deep Neural Networks aiding Cryptanalysis: A Case Study of the Speck Distinguish
 6. TheSpeckAttack_Activations.ipynb for creating Figures: 3.
 7. TheSpeckAttack_FeatureVisualization.ipynb for creating Figures: 4, 5.
 8. For obtaining the results for Tables: 1, 2, you can directly refer to the code available here: https://github.com/agohr/deep_speck
+9. The Figures folder contains figures referred to in the paper. 
 
 
 The pruned network can be seen here: TheSpeckAttack_The_reduced_network.ipynb
